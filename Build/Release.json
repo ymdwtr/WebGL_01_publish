@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Pitatto Number",
-"productVersion": "0.1",
+"productName": "ピタッとナンバー",
+"productVersion": "1.0",
 "dataUrl": "Release.data.unityweb",
 "wasmCodeUrl": "Release.wasm.code.unityweb",
 "wasmFrameworkUrl": "Release.wasm.framework.unityweb",
